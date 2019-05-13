@@ -1,0 +1,5 @@
+m0 = 0.850000
+efficiency = 91.455518%
+Aliasing does not occur!
+Highest Frequency Index: 4094
+Highest Frequency Component: 0.014950
